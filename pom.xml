@@ -27,7 +27,7 @@
     <packaging>pom</packaging>
 
     <scm>
-        <url>https://github.com/Apelon-VA/va-isaac-parent.git</url>
+        <url>https://github.com/VA-CTT/va-isaac-parent.git</url>
     </scm>
 
     <properties>
